@@ -1,0 +1,270 @@
+Test Case 1
+
+Input :
+
+7
+333.15
+Output :
+
+26.00
+Test Case 2
+
+Input :
+
+11
+95.43
+Output :
+
+123.00
+Test Case 3
+
+Input :
+
+20
+102.88
+Output :
+
+81.00
+Test Case 4
+
+Input :
+
+19
+257.95
+Output :
+
+168.00
+Test Case 5
+
+Input :
+
+18
+350.45
+Output :
+
+20.50
+Test Case 6
+
+Input :
+
+22
+69.21
+Output :
+
+48.50
+Test Case 7
+
+Input :
+
+2
+190.69
+Output :
+
+13.50
+Test Case 8
+
+Input :
+
+6
+313.07
+Output :
+
+78.50
+Test Case 9
+
+Input :
+
+23
+245.44
+Output :
+
+130.00
+Test Case 10
+
+Input :
+
+7
+18.52
+Output :
+
+115.50
+Test Case 11
+
+Input :
+
+11
+296.75
+Output :
+
+112.00
+Test Case 12
+
+Input :
+
+17
+257.65
+Output :
+
+55.00
+Test Case 13
+
+Input :
+
+13
+214.94
+Output :
+
+37.50
+Test Case 14
+
+Input :
+
+17
+268.7
+Output :
+
+134.50
+Test Case 15
+
+Input :
+
+24
+124.78
+Output :
+
+135.50
+Test Case 16
+
+Input :
+
+2
+332.06
+Output :
+
+115.00
+Test Case 17
+
+Input :
+
+16
+258.12
+Output :
+
+176.00
+Test Case 18
+
+Input :
+
+2
+220.73
+Output :
+
+41.50
+Test Case 19
+
+Input :
+
+9
+177.25
+Output :
+
+17.50
+Test Case 20
+
+Input :
+
+14
+277.39
+Output :
+
+41.50
+Test Case 21
+
+Input :
+
+23
+35.05
+Output :
+
+17.00
+Test Case 22
+
+Input :
+
+12
+212.36
+Output :
+
+172.00
+Test Case 23
+
+Input :
+
+5
+234.93
+Output :
+
+7.50
+Test Case 24
+
+Input :
+
+8
+185.84
+Output :
+
+81.50
+Test Case 25
+
+Input :
+
+16
+130.58
+Output :
+
+114.00
+Test Case 26
+
+Input :
+
+14
+8.68
+Output :
+
+110.00
+Test Case 27
+
+Input :
+
+13
+232.7
+Output :
+
+108.00
+Test Case 28
+
+Input :
+
+2
+168.23
+Output :
+
+52.00
+Test Case 29
+
+Input :
+
+2
+7.1
+Output :
+
+11.00
+Test Case 30
+
+Input :
+
+10
+205.3
+Output :
+
+81.00
